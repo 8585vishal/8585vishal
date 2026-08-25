@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Experience and education timeline. BCA at KLE Society's Degree College 2022 to 2024. CodSoft Data Science Intern November 2023. Bharat Intern Data Science Intern December 2023. Internship Studio Data Analytics January 2024. MCA at Presidency University 2024 to 2026. Accurate Info-Solutions Data Analyst Intern February 2026.">
+  <defs>
+    <linearGradient id="tl_panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1a"/><stop offset="1" stop-color="#06080f"/></linearGradient>
+    <linearGradient id="tl_border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="tl_line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="1192" height="292" rx="16" fill="url(#tl_border)"/>
+  <rect x="6" y="6" width="1188" height="288" rx="14" fill="url(#tl_panel)"/>
+
+  <!-- spine -->
+  <line x1="60" y1="165" x2="1140" y2="165" stroke="#16263f" stroke-width="4"/>
+  <line x1="60" y1="165" x2="1140" y2="165" stroke="url(#tl_line)" stroke-width="4" stroke-dasharray="1080" stroke-dashoffset="1080">
+    <animate attributeName="stroke-dashoffset" values="1080;0" dur="2.2s" fill="freeze"/>
+  </line>
+  <circle r="6" fill="#e0fbff"><animateMotion dur="4s" repeatCount="indefinite" path="M60 165 H1140"/></circle>
+
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace">
+    <!-- 1 BCA (above, cyan) -->
+    <line x1="130" y1="104" x2="130" y2="165" stroke="#1c4a5e" stroke-width="1.5"/>
+    <circle cx="130" cy="165" r="8" fill="#06080f" stroke="#22d3ee" stroke-width="3"/>
+    <g><rect x="42" y="36" width="176" height="68" rx="8" fill="#0b1424" stroke="#1c4a5e"/>
+      <text x="56" y="58" font-size="12" fill="#22d3ee">2022 – 2024</text>
+      <text x="56" y="79" font-size="14.5" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">BCA · Computer Apps</text>
+      <text x="56" y="96" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">KLE Society's Degree College</text>
+    </g>
+    <!-- 2 CodSoft (below, purple) -->
+    <line x1="320" y1="165" x2="320" y2="196" stroke="#3b2a63" stroke-width="1.5"/>
+    <circle cx="320" cy="165" r="7" fill="#06080f" stroke="#8b5cf6" stroke-width="3"/>
+    <g><rect x="232" y="196" width="176" height="68" rx="8" fill="#0b1424" stroke="#2c2350"/>
+      <text x="246" y="218" font-size="12" fill="#c4b5fd">Nov 2023</text>
+      <text x="246" y="239" font-size="14.5" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">CodSoft</text>
+      <text x="246" y="256" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">Data Science Intern</text>
+    </g>
+    <!-- 3 Bharat (below, purple) -->
+    <line x1="510" y1="165" x2="510" y2="196" stroke="#3b2a63" stroke-width="1.5"/>
+    <circle cx="510" cy="165" r="7" fill="#06080f" stroke="#8b5cf6" stroke-width="3"/>
+    <g><rect x="422" y="196" width="176" height="68" rx="8" fill="#0b1424" stroke="#2c2350"/>
+      <text x="436" y="218" font-size="12" fill="#c4b5fd">Dec 2023</text>
+      <text x="436" y="239" font-size="14.5" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">Bharat Intern</text>
+      <text x="436" y="256" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">Data Science Intern</text>
+    </g>
+    <!-- 4 Internship Studio (below, purple) -->
+    <line x1="700" y1="165" x2="700" y2="196" stroke="#3b2a63" stroke-width="1.5"/>
+    <circle cx="700" cy="165" r="7" fill="#06080f" stroke="#8b5cf6" stroke-width="3"/>
+    <g><rect x="612" y="196" width="176" height="68" rx="8" fill="#0b1424" stroke="#2c2350"/>
+      <text x="626" y="218" font-size="12" fill="#c4b5fd">Jan 2024</text>
+      <text x="626" y="239" font-size="14.5" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">Internship Studio</text>
+      <text x="626" y="256" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">Data Analytics</text>
+    </g>
+    <!-- 5 MCA (above, cyan) -->
+    <line x1="890" y1="104" x2="890" y2="165" stroke="#1c4a5e" stroke-width="1.5"/>
+    <circle cx="890" cy="165" r="8" fill="#06080f" stroke="#22d3ee" stroke-width="3"/>
+    <g><rect x="802" y="36" width="176" height="68" rx="8" fill="#0b1424" stroke="#1c4a5e"/>
+      <text x="816" y="58" font-size="12" fill="#22d3ee">2024 – 2026</text>
+      <text x="816" y="79" font-size="14.5" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">MCA · Computer Apps</text>
+      <text x="816" y="96" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">Presidency University</text>
+    </g>
+    <!-- 6 Accurate (below, green - latest) -->
+    <line x1="1080" y1="165" x2="1080" y2="196" stroke="#1a5a3a" stroke-width="1.5"/>
+    <circle cx="1080" cy="165" r="8" fill="#06080f" stroke="#22c55e" stroke-width="3"><animate attributeName="r" values="8;10;8" dur="2s" repeatCount="indefinite"/></circle>
+    <g><rect x="992" y="196" width="176" height="68" rx="8" fill="#0b1424" stroke="#1a5a3a"/>
+      <text x="1006" y="218" font-size="12" fill="#7fe0b0">Feb 2026</text>
+      <text x="1006" y="239" font-size="14" font-weight="700" fill="#e2e8f0" font-family="'Segoe UI',system-ui,sans-serif">Accurate Info-Sol.</text>
+      <text x="1006" y="256" font-size="11.5" fill="#8ea3c4" font-family="'Segoe UI',system-ui,sans-serif">Data Analyst Intern</text>
+    </g>
+  </g>
+</svg>

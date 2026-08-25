@@ -1,0 +1,6 @@
+SETUP-GUIDE.md
+deploy-to-github.sh
+deploy-to-github.ps1
+_bundle/
+_deploy/
+_qa/

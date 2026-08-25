@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Technology orbital system. Core: AI engineering. Orbiting technologies used: React, Node.js, MongoDB, Python, Java, JavaScript, TypeScript, AWS, Docker, Git, Linux.">
+  <defs>
+    <linearGradient id="o_panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1a"/><stop offset="1" stop-color="#06080f"/></linearGradient>
+    <linearGradient id="o_border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <radialGradient id="o_core" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.6" stop-color="#0e5a72"/><stop offset="1" stop-color="#0a1a2e"/></radialGradient>
+    <radialGradient id="o_glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#123a52"/><stop offset="1" stop-color="#06080f"/></radialGradient>
+  </defs>
+  <rect x="4" y="4" width="1192" height="332" rx="16" fill="url(#o_border)"/>
+  <rect x="6" y="6" width="1188" height="328" rx="14" fill="url(#o_panel)"/>
+  <ellipse cx="600" cy="170" rx="520" ry="180" fill="url(#o_glow)" opacity="0.5"/>
+  <g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace"><circle cx="30" cy="30" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle><text x="44" y="35" font-size="13" fill="#5ad1e6">// tech.stack — verified toolset in orbit</text></g>
+
+  <!-- orbit rings -->
+  <g fill="none">
+    <ellipse cx="600" cy="170" rx="150" ry="55" stroke="#164a5e" stroke-width="1"/>
+    <ellipse cx="600" cy="170" rx="270" ry="100" stroke="#2c2350" stroke-width="1"/>
+    <ellipse cx="600" cy="170" rx="400" ry="145" stroke="#183050" stroke-width="1"/>
+  </g>
+
+  <!-- core -->
+  <circle cx="600" cy="170" r="46" fill="url(#o_core)"/>
+  <path d="M600 132 L633 151 L633 189 L600 208 L567 189 L567 151 Z" fill="none" stroke="#e0fbff" stroke-width="1.5" opacity="0.8">
+    <animateTransform attributeName="transform" type="rotate" values="0 600 170;360 600 170" dur="16s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="166" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="20" font-weight="800" fill="#06121e">AI</text>
+  <text x="600" y="184" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="9" fill="#0a2436" letter-spacing="1">CORE</text>
+  <circle cx="600" cy="170" r="52" fill="none" stroke="#22d3ee" stroke-width="1"><animate attributeName="r" values="50;60;50" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite"/></circle>
+
+  <!-- Orbit A (inner, cyan): React, Node.js, MongoDB -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="12.5" font-weight="600">
+    <g><animateMotion dur="15s" begin="0s" repeatCount="indefinite" path="M450,170 a150,55 0 1,0 300,0 a150,55 0 1,0 -300,0"/><circle r="5" fill="#22d3ee"/><text x="9" y="4" fill="#7dd3fc">React</text></g>
+    <g><animateMotion dur="15s" begin="-5s" repeatCount="indefinite" path="M450,170 a150,55 0 1,0 300,0 a150,55 0 1,0 -300,0"/><circle r="5" fill="#22d3ee"/><text x="9" y="4" fill="#7dd3fc">Node.js</text></g>
+    <g><animateMotion dur="15s" begin="-10s" repeatCount="indefinite" path="M450,170 a150,55 0 1,0 300,0 a150,55 0 1,0 -300,0"/><circle r="5" fill="#22d3ee"/><text x="9" y="4" fill="#7dd3fc">MongoDB</text></g>
+  </g>
+  <!-- Orbit B (mid, purple): Python, Java, JavaScript, TypeScript -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="12.5" font-weight="600">
+    <g><animateMotion dur="23s" begin="0s" repeatCount="indefinite" path="M330,170 a270,100 0 1,0 540,0 a270,100 0 1,0 -540,0"/><circle r="5" fill="#a855f7"/><text x="9" y="4" fill="#c4b5fd">Python</text></g>
+    <g><animateMotion dur="23s" begin="-5.75s" repeatCount="indefinite" path="M330,170 a270,100 0 1,0 540,0 a270,100 0 1,0 -540,0"/><circle r="5" fill="#a855f7"/><text x="9" y="4" fill="#c4b5fd">Java</text></g>
+    <g><animateMotion dur="23s" begin="-11.5s" repeatCount="indefinite" path="M330,170 a270,100 0 1,0 540,0 a270,100 0 1,0 -540,0"/><circle r="5" fill="#a855f7"/><text x="9" y="4" fill="#c4b5fd">JavaScript</text></g>
+    <g><animateMotion dur="23s" begin="-17.25s" repeatCount="indefinite" path="M330,170 a270,100 0 1,0 540,0 a270,100 0 1,0 -540,0"/><circle r="5" fill="#a855f7"/><text x="9" y="4" fill="#c4b5fd">TypeScript</text></g>
+  </g>
+  <!-- Orbit C (outer, blue/green): AWS, Docker, Git, Linux -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="12.5" font-weight="600">
+    <g><animateMotion dur="31s" begin="0s" repeatCount="indefinite" path="M200,170 a400,145 0 1,0 800,0 a400,145 0 1,0 -800,0"/><circle r="5" fill="#3b82f6"/><text x="9" y="4" fill="#93b4d8">AWS</text></g>
+    <g><animateMotion dur="31s" begin="-7.75s" repeatCount="indefinite" path="M200,170 a400,145 0 1,0 800,0 a400,145 0 1,0 -800,0"/><circle r="5" fill="#3b82f6"/><text x="9" y="4" fill="#93b4d8">Docker</text></g>
+    <g><animateMotion dur="31s" begin="-15.5s" repeatCount="indefinite" path="M200,170 a400,145 0 1,0 800,0 a400,145 0 1,0 -800,0"/><circle r="5" fill="#22c55e"/><text x="9" y="4" fill="#7fe0b0">Git</text></g>
+    <g><animateMotion dur="31s" begin="-23.25s" repeatCount="indefinite" path="M200,170 a400,145 0 1,0 800,0 a400,145 0 1,0 -800,0"/><circle r="5" fill="#22c55e"/><text x="9" y="4" fill="#7fe0b0">Linux</text></g>
+  </g>
+</svg>

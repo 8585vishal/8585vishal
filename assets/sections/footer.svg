@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Thanks for visiting. Designing systems that think, detect, and defend.">
+  <defs>
+    <linearGradient id="f_panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06080f"/>
+      <stop offset="1" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="f_border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="f_wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="f_txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="f_glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0e2d3d"/>
+      <stop offset="1" stop-color="#06080f"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="1192" height="192" rx="16" fill="url(#f_border)"/>
+  <rect x="6" y="6" width="1188" height="188" rx="14" fill="url(#f_panel)"/>
+  <ellipse cx="600" cy="120" rx="520" ry="150" fill="url(#f_glow)" opacity="0.5"/>
+
+  <!-- EKG / signal pulse waveform -->
+  <path d="M40 96 H360 l24 -46 l26 92 l22 -70 l20 24 H600 l24 -40 l26 74 l20 -34 H1160"
+        fill="none" stroke="url(#f_wave)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle r="5" fill="#e0fbff">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M40 96 H360 l24 -46 l26 92 l22 -70 l20 24 H600 l24 -40 l26 74 l20 -34 H1160"/>
+  </circle>
+
+  <text x="600" y="86" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="30" font-weight="800" fill="url(#f_txt)">Thanks for visiting</text>
+  <text x="600" y="120" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace" font-size="15" fill="#8ea3c4" letter-spacing="1">systems that think, detect, and defend</text>
+  <text x="600" y="168" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="12.5" fill="#5a6b8c">$ built by Vishal Raj Purohit &#160;·&#160; hand-crafted animated SVG &#160;·&#160; no trackers</text>
+
+  <path d="M28 28 h34 M28 28 v34" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M1172 172 h-34 M1172 172 v-34" stroke="#a855f7" stroke-width="2" fill="none" opacity="0.7"/>
+</svg>

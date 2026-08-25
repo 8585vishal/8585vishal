@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Vishal Raj Purohit — AI Engineering Command Center. Software Developer working across AI/ML, full-stack, and cybersecurity.">
+  <defs>
+    <linearGradient id="h_panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0e1a"/>
+      <stop offset="0.55" stop-color="#080b16"/>
+      <stop offset="1" stop-color="#06080f"/>
+    </linearGradient>
+    <linearGradient id="h_border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="h_name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e2f6ff"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="h_glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0e3b4d"/>
+      <stop offset="1" stop-color="#06080f"/>
+    </radialGradient>
+    <radialGradient id="h_glowP" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#241a4d"/>
+      <stop offset="1" stop-color="#06080f"/>
+    </radialGradient>
+    <pattern id="h_grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#12203a" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="h_scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="332" rx="18" fill="url(#h_border)"/>
+  <rect x="6" y="6" width="1188" height="328" rx="16" fill="url(#h_panel)"/>
+  <rect x="6" y="6" width="1188" height="328" rx="16" fill="url(#h_grid)" opacity="0.5"/>
+  <circle cx="930" cy="150" r="230" fill="url(#h_glowP)" opacity="0.55"/>
+  <circle cx="300" cy="250" r="220" fill="url(#h_glowC)" opacity="0.5"/>
+
+  <!-- corner brackets -->
+  <path d="M28 28 h40 M28 28 v40" stroke="#22d3ee" stroke-width="2" fill="none" opacity="0.8"/>
+  <path d="M1172 312 h-40 M1172 312 v-40" stroke="#a855f7" stroke-width="2" fill="none" opacity="0.8"/>
+
+  <!-- moving scan line -->
+  <rect x="30" y="6" width="220" height="328" fill="url(#h_scan)" opacity="0.06">
+    <animate attributeName="x" values="30;950;30" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- text block -->
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace">
+    <circle cx="52" cy="70" r="5" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="70" y="75" font-size="15" fill="#5ad1e6" letter-spacing="2">// ai.engineering.command_center</text>
+  </g>
+
+  <text x="50" y="150" font-family="'Segoe UI',system-ui,sans-serif" font-size="58" font-weight="800" fill="url(#h_name)" letter-spacing="1">VISHAL RAJ PUROHIT</text>
+
+  <text x="52" y="192" font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace" font-size="18" fill="#cbd5e1" letter-spacing="1">Software Developer  ·  AI / ML  ·  Full-Stack  ·  Cybersecurity</text>
+
+  <g font-family="'Segoe UI',system-ui,sans-serif" font-size="16" fill="#8ea3c4">
+    <text x="52" y="232">Building intelligent systems that think, detect, and defend —</text>
+    <text x="52" y="256">from deepfake forensics and network-anomaly detection to secure AI platforms.</text>
+  </g>
+
+  <!-- status chips -->
+  <g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="12.5">
+    <rect x="52" y="278" width="150" height="30" rx="15" fill="#0c1830" stroke="#164a5e"/>
+    <circle cx="70" cy="293" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="82" y="297" fill="#7fe0b0">open&#160;to&#160;work</text>
+    <rect x="214" y="278" width="176" height="30" rx="15" fill="#0c1830" stroke="#3b2a63"/>
+    <text x="230" y="297" fill="#c4b5fd">MCA&#160;·&#160;CGPA&#160;9.23</text>
+    <rect x="402" y="278" width="168" height="30" rx="15" fill="#0c1830" stroke="#164a5e"/>
+    <text x="418" y="297" fill="#7dd3fc">Bengaluru,&#160;India</text>
+  </g>
+
+  <!-- neural network graphic (right) -->
+  <g transform="translate(792,26)" fill="none">
+    <!-- edges -->
+    <g stroke="#1f77a8" stroke-width="1.4" opacity="0.55">
+      <line x1="40" y1="70" x2="150" y2="40"/><line x1="40" y1="70" x2="150" y2="130"/><line x1="40" y1="70" x2="150" y2="215"/>
+      <line x1="40" y1="150" x2="150" y2="40"/><line x1="40" y1="150" x2="150" y2="130"/><line x1="40" y1="150" x2="150" y2="215"/>
+      <line x1="40" y1="230" x2="150" y2="130"/><line x1="40" y1="230" x2="150" y2="215"/>
+      <line x1="150" y1="40" x2="270" y2="80"/><line x1="150" y1="130" x2="270" y2="80"/><line x1="150" y1="130" x2="270" y2="185"/>
+      <line x1="150" y1="215" x2="270" y2="185"/><line x1="150" y1="40" x2="270" y2="185"/><line x1="150" y1="215" x2="270" y2="80"/>
+      <line x1="270" y1="80" x2="360" y2="130"/><line x1="270" y1="185" x2="360" y2="130"/>
+    </g>
+    <!-- signal pulses -->
+    <circle r="3.5" fill="#22d3ee">
+      <animateMotion dur="2.4s" repeatCount="indefinite" path="M40,70 L150,130 L270,80 L360,130"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.5" fill="#a855f7">
+      <animateMotion dur="2.9s" begin="0.6s" repeatCount="indefinite" path="M40,150 L150,215 L270,185 L360,130"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#4ade80">
+      <animateMotion dur="2.6s" begin="1.2s" repeatCount="indefinite" path="M40,230 L150,130 L270,80 L360,130"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="2.6s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- nodes -->
+    <g>
+      <circle cx="40" cy="70" r="9" fill="#0b2836" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="9;11;9" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="40" cy="150" r="9" fill="#0b2836" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="9;11;9" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <circle cx="40" cy="230" r="9" fill="#0b2836" stroke="#22d3ee" stroke-width="2"><animate attributeName="r" values="9;11;9" dur="3s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="40" r="8" fill="#161233" stroke="#6aa9ff" stroke-width="2"/>
+      <circle cx="150" cy="130" r="8" fill="#161233" stroke="#6aa9ff" stroke-width="2"><animate attributeName="r" values="8;10;8" dur="2.5s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="215" r="8" fill="#161233" stroke="#6aa9ff" stroke-width="2"/>
+      <circle cx="270" cy="80" r="8" fill="#1c1440" stroke="#a855f7" stroke-width="2"><animate attributeName="r" values="8;10;8" dur="2.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="270" cy="185" r="8" fill="#1c1440" stroke="#a855f7" stroke-width="2"/>
+      <circle cx="360" cy="130" r="11" fill="#1a3a24" stroke="#22c55e" stroke-width="2.5"><animate attributeName="r" values="11;13;11" dur="2.2s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 440" width="1080" height="440" role="img" aria-label="Terminal session. whoami: vishal-raj-purohit. Focus: AI/ML, Full-Stack, Cybersecurity, Data Science. Currently building: PUARAI and Cortexify-AI. Education: MCA Presidency University 9.23, BCA KLE Society's Degree College 9.18. Status: building intelligent systems.">
+  <defs>
+    <linearGradient id="t_border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="t_bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111a2e"/>
+      <stop offset="1" stop-color="#0c1424"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="1074" height="434" rx="14" fill="url(#t_border)"/>
+  <rect x="5" y="5" width="1070" height="430" rx="12" fill="#080b14"/>
+  <!-- title bar -->
+  <path d="M5 17 a12 12 0 0 1 12 -12 h1046 a12 12 0 0 1 12 12 v27 h-1070 z" fill="url(#t_bar)"/>
+  <circle cx="30" cy="30" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="30" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="30" r="6" fill="#27c93f"/>
+  <text x="540" y="35" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="13" fill="#5f7292">vishal@command-center: ~/profile</text>
+
+  <g font-family="'JetBrains Mono','Fira Code',ui-monospace,Consolas,monospace" font-size="17">
+    <!-- line 1 -->
+    <g opacity="0"><animate attributeName="opacity" begin="0.2s" dur="0.3s" values="0;1" fill="freeze"/>
+      <text x="34" y="92" fill="#22c55e">$</text><text x="54" y="92" fill="#e2e8f0">whoami</text>
+      <text x="34" y="120" fill="#5ad1e6">&#8627; vishal-raj-purohit</text>
+    </g>
+    <!-- line 2 -->
+    <g opacity="0"><animate attributeName="opacity" begin="0.9s" dur="0.3s" values="0;1" fill="freeze"/>
+      <text x="34" y="160" fill="#22c55e">$</text><text x="54" y="160" fill="#e2e8f0">cat focus.txt</text>
+      <text x="34" y="188" fill="#c4b5fd">&#8627; AI/ML &#183; Full-Stack &#183; Cybersecurity &#183; Data Science</text>
+    </g>
+    <!-- line 3 -->
+    <g opacity="0"><animate attributeName="opacity" begin="1.6s" dur="0.3s" values="0;1" fill="freeze"/>
+      <text x="34" y="228" fill="#22c55e">$</text><text x="54" y="228" fill="#e2e8f0">ls ~/currently-building</text>
+      <text x="34" y="256" fill="#7dd3fc">&#8627; PUARAI/&#160;&#160;&#160;Cortexify-AI/</text>
+    </g>
+    <!-- line 4 -->
+    <g opacity="0"><animate attributeName="opacity" begin="2.3s" dur="0.3s" values="0;1" fill="freeze"/>
+      <text x="34" y="296" fill="#22c55e">$</text><text x="54" y="296" fill="#e2e8f0">cat education.json</text>
+      <text x="34" y="324" fill="#93b4d8">&#8627; { "MCA": "Presidency University &#183; CGPA 9.23",</text>
+      <text x="34" y="350" fill="#93b4d8">&#160;&#160;&#160;"BCA": "KLE Society's Degree College &#183; CGPA 9.18" }</text>
+    </g>
+    <!-- line 5 -->
+    <g opacity="0"><animate attributeName="opacity" begin="3.0s" dur="0.3s" values="0;1" fill="freeze"/>
+      <text x="34" y="390" fill="#22c55e">$</text><text x="54" y="390" fill="#e2e8f0">status --now</text>
+      <text x="34" y="418" fill="#7fe0b0">&#8627; building intelligent systems</text>
+    </g>
+    <rect x="352" y="404" width="11" height="18" fill="#22d3ee">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Project constellation linking featured projects: PUARAI, Cortexify-AI, Forensic-AI, Spectrogram network anomaly detection, NEWS-AUTHENTIX, and AeroAnomaly-AI.">
+<defs>
+<linearGradient id="s_panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080b16"/><stop offset="1" stop-color="#05070f"/></linearGradient>
+<linearGradient id="s_border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<radialGradient id="s_glow" cx="0.5" cy="0.4" r="0.6"><stop offset="0" stop-color="#0e2942"/><stop offset="1" stop-color="#05070f"/></radialGradient>
+</defs>
+<rect x="4" y="4" width="1192" height="332" rx="16" fill="url(#s_border)"/>
+<rect x="6" y="6" width="1188" height="328" rx="14" fill="url(#s_panel)"/>
+<ellipse cx="600" cy="150" rx="560" ry="180" fill="url(#s_glow)" opacity="0.6"/>
+<circle cx="258" cy="36" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="239" cy="303" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.2s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="221" cy="135" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.0s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="437" cy="303" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.3s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="43" cy="105" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.6s" begin="0.5s" repeatCount="indefinite"/></circle>
+<circle cx="719" cy="76" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.7s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="734" cy="159" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="805" cy="64" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.8s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="770" cy="122" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="1.9s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="622" cy="64" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.9s" begin="1.1s" repeatCount="indefinite"/></circle>
+<circle cx="958" cy="210" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.7s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="576" cy="60" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.1s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="976" cy="218" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.2s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="1170" cy="136" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.8s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="499" cy="40" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.8s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="674" cy="132" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.7s" begin="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="969" cy="97" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" begin="2.2s" repeatCount="indefinite"/></circle>
+<circle cx="1133" cy="158" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.0s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="479" cy="94" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.0s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="254" cy="102" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.7s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="221" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.2s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="544" cy="307" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="1129" cy="160" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="959" cy="25" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.1s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="1069" cy="78" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.8s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="437" cy="102" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="1116" cy="24" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.0s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="773" cy="181" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="1.9s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="191" cy="67" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.8s" begin="2.9s" repeatCount="indefinite"/></circle>
+<circle cx="1120" cy="88" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.4s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="368" cy="159" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.1s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="441" cy="183" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.2s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="927" cy="288" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.1s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="722" cy="34" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="150" cy="141" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="4.0s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="175" cy="287" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="1134" cy="91" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="863" cy="121" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.0s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="897" cy="234" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.9s" begin="0.2s" repeatCount="indefinite"/></circle>
+<circle cx="231" cy="55" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.5s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="253" cy="151" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.3s" begin="1.3s" repeatCount="indefinite"/></circle>
+<circle cx="894" cy="117" r="1.2" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.9s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="184" cy="250" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="1.9s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="60" cy="71" r="1" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.2s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="467" cy="229" r="0.8" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="829" cy="159" r="1.5" fill="#9fb6d6"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.5s" begin="2.1s" repeatCount="indefinite"/></circle>
+<g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace"><circle cx="30" cy="30" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle><text x="44" y="35" font-size="13" fill="#5ad1e6">// projects.constellation</text></g>
+<g stroke-width="1.4" fill="none">
+<line x1="250" y1="120" x2="470" y2="225" stroke="#284a6b" opacity="0.6"/>
+<line x1="470" y1="225" x2="720" y2="285" stroke="#284a6b" opacity="0.6"/>
+<line x1="720" y1="285" x2="915" y2="205" stroke="#284a6b" opacity="0.6"/>
+<line x1="470" y1="225" x2="690" y2="110" stroke="#284a6b" opacity="0.6"/>
+<line x1="690" y1="110" x2="915" y2="205" stroke="#284a6b" opacity="0.6"/>
+<line x1="690" y1="110" x2="1000" y2="115" stroke="#284a6b" opacity="0.6"/>
+<line x1="915" y1="205" x2="1000" y2="115" stroke="#284a6b" opacity="0.6"/>
+<line x1="250" y1="120" x2="690" y2="110" stroke="#284a6b" opacity="0.6"/>
+</g>
+<circle r="3" fill="#e0fbff"><animateMotion dur="3s" repeatCount="indefinite" path="M250,120 L470,225"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#e0fbff"><animateMotion dur="3.6s" repeatCount="indefinite" path="M470,225 L915,205"/><animate attributeName="opacity" values="0;1;0" dur="3.6s" repeatCount="indefinite"/></circle>
+<circle r="3" fill="#e0fbff"><animateMotion dur="3.2s" repeatCount="indefinite" path="M690,110 L1000,115"/><animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/></circle>
+<g><circle cx="250" cy="120" r="18" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5"><animate attributeName="r" values="14;24;14" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="120" r="10" fill="#22d3ee"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="250" cy="120" r="5" fill="#e8fbff"/>
+<text x="270" y="106" text-anchor="start" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">PUARAI</text></g>
+<g><circle cx="470" cy="225" r="18" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.5"><animate attributeName="r" values="14;24;14" dur="3s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="225" r="10" fill="#a855f7"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="470" cy="225" r="5" fill="#e8fbff"/>
+<text x="490" y="211" text-anchor="start" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">Cortexify-AI</text></g>
+<g><circle cx="690" cy="110" r="17" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5"><animate attributeName="r" values="13;23;13" dur="3s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="690" cy="110" r="9" fill="#22d3ee"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="690" cy="110" r="4" fill="#e8fbff"/>
+<text x="709" y="96" text-anchor="start" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">Forensic-AI</text></g>
+<g><circle cx="720" cy="285" r="17" fill="none" stroke="#4ade80" stroke-width="1" opacity="0.5"><animate attributeName="r" values="13;23;13" dur="3s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="285" r="9" fill="#4ade80"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="720" cy="285" r="4" fill="#e8fbff"/>
+<text x="739" y="271" text-anchor="start" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">Spectrogram</text></g>
+<g><circle cx="915" cy="205" r="17" fill="none" stroke="#a855f7" stroke-width="1" opacity="0.5"><animate attributeName="r" values="13;23;13" dur="3s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="915" cy="205" r="9" fill="#a855f7"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="915" cy="205" r="4" fill="#e8fbff"/>
+<text x="934" y="191" text-anchor="start" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">NEWS-AUTHENTIX</text></g>
+<g><circle cx="1000" cy="115" r="17" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.5"><animate attributeName="r" values="13;23;13" dur="3s" begin="2.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0;0.5" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1000" cy="115" r="9" fill="#22d3ee"><animate attributeName="opacity" values="1;0.6;1" dur="2.6s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="1000" cy="115" r="4" fill="#e8fbff"/>
+<text x="981" y="101" text-anchor="end" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="13.5" font-weight="700" fill="#e2e8f0">AeroAnomaly-AI</text></g>
+</svg>

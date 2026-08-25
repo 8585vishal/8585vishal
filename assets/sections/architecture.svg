@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Full-stack architecture. Client (React, HTML/CSS, JavaScript) to API layer (Node.js, Express, REST API) to services (AI/LLM, Auth, App Logic) to data (MongoDB, MySQL, Firebase), with request and response flow.">
+<defs>
+<linearGradient id="ar_panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1a"/><stop offset="1" stop-color="#06080f"/></linearGradient>
+<linearGradient id="ar_border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+</defs>
+<rect x="4" y="4" width="1192" height="332" rx="16" fill="url(#ar_border)"/>
+<rect x="6" y="6" width="1188" height="328" rx="14" fill="url(#ar_panel)"/>
+<g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace"><circle cx="30" cy="30" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle><text x="44" y="35" font-size="13" fill="#5ad1e6">// architecture.fullstack — request / response lifecycle</text></g>
+<rect x="28" y="66" width="244" height="240" rx="12" fill="#0b1424" stroke="#164a5e"/>
+<rect x="28" y="66" width="244" height="6" rx="3" fill="#22d3ee"/>
+<g stroke="#22d3ee" stroke-width="2" fill="none"><rect x="134" y="108" width="32" height="22" rx="2"/><line x1="142" y1="136" x2="158" y2="136"/><line x1="150" y1="130" x2="150" y2="136"/></g>
+<text x="150" y="164" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" font-weight="700" fill="#22d3ee" letter-spacing="1">CLIENT</text>
+<rect x="56" y="180" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="150" y="199" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">React</text>
+<rect x="56" y="214" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="150" y="233" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">HTML / CSS</text>
+<rect x="56" y="248" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="150" y="267" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">JavaScript</text>
+<rect x="330" y="66" width="244" height="240" rx="12" fill="#0b1424" stroke="#1e3a6b"/>
+<rect x="330" y="66" width="244" height="6" rx="3" fill="#3b82f6"/>
+<g stroke="#3b82f6" stroke-width="2" fill="none"><rect x="436" y="106" width="32" height="12" rx="2"/><rect x="436" y="122" width="32" height="12" rx="2"/><circle cx="442" cy="112" r="1.6" fill="#3b82f6"/><circle cx="442" cy="128" r="1.6" fill="#3b82f6"/></g>
+<text x="452" y="164" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" font-weight="700" fill="#3b82f6" letter-spacing="1">API LAYER</text>
+<rect x="358" y="180" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="452" y="199" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">Node.js</text>
+<rect x="358" y="214" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="452" y="233" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">Express</text>
+<rect x="358" y="248" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="452" y="267" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">REST API</text>
+<rect x="632" y="66" width="244" height="240" rx="12" fill="#0b1424" stroke="#3b2a63"/>
+<rect x="632" y="66" width="244" height="6" rx="3" fill="#a855f7"/>
+<g stroke="#a855f7" stroke-width="2" fill="none"><circle cx="754" cy="120" r="11"/><circle cx="754" cy="120" r="3.5" fill="#a855f7"/><g stroke="#a855f7" stroke-width="2.4"><line x1="754" y1="104" x2="754" y2="109"/><line x1="754" y1="131" x2="754" y2="136"/><line x1="738" y1="120" x2="743" y2="120"/><line x1="765" y1="120" x2="770" y2="120"/></g></g>
+<text x="754" y="164" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" font-weight="700" fill="#a855f7" letter-spacing="1">SERVICES</text>
+<rect x="660" y="180" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="754" y="199" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">AI / LLM</text>
+<rect x="660" y="214" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="754" y="233" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">Auth</text>
+<rect x="660" y="248" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="754" y="267" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">App Logic</text>
+<rect x="934" y="66" width="244" height="240" rx="12" fill="#0b1424" stroke="#1a5a3a"/>
+<rect x="934" y="66" width="244" height="6" rx="3" fill="#22c55e"/>
+<g stroke="#22c55e" stroke-width="2" fill="none"><ellipse cx="1056" cy="109" rx="15" ry="5"/><path d="M1041 109 V128 a15 5 0 0 0 30 0 V109"/><path d="M1041 118 a15 5 0 0 0 30 0" /></g>
+<text x="1056" y="164" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" font-weight="700" fill="#22c55e" letter-spacing="1">DATA</text>
+<rect x="962" y="180" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="1056" y="199" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">MongoDB</text>
+<rect x="962" y="214" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="1056" y="233" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">MySQL</text>
+<rect x="962" y="248" width="188" height="28" rx="6" fill="#0e1830" stroke="#1c2c47"/>
+<text x="1056" y="267" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="13.5" fill="#dbe6f5">Firebase</text>
+<line x1="278" y1="150" x2="320" y2="150" stroke="#33507a"/>
+<path d="M316 145 L324 150 L316 155 Z" fill="#33507a"/>
+<circle r="4" fill="#22d3ee"><animateMotion dur="1.6s" begin="0.0s" repeatCount="indefinite" path="M278,150 L320,150"/></circle>
+<line x1="278" y1="232" x2="324" y2="232" stroke="#274063" stroke-dasharray="4 4"/>
+<path d="M286 227 L278 232 L286 237 Z" fill="#274063"/>
+<circle r="3.5" fill="#22c55e"><animateMotion dur="2s" begin="0.8s" repeatCount="indefinite" path="M324,232 L278,232"/></circle>
+<line x1="580" y1="150" x2="622" y2="150" stroke="#33507a"/>
+<path d="M618 145 L626 150 L618 155 Z" fill="#33507a"/>
+<circle r="4" fill="#22d3ee"><animateMotion dur="1.6s" begin="0.5s" repeatCount="indefinite" path="M580,150 L622,150"/></circle>
+<line x1="580" y1="232" x2="626" y2="232" stroke="#274063" stroke-dasharray="4 4"/>
+<path d="M588 227 L580 232 L588 237 Z" fill="#274063"/>
+<circle r="3.5" fill="#22c55e"><animateMotion dur="2s" begin="1.3s" repeatCount="indefinite" path="M626,232 L580,232"/></circle>
+<line x1="882" y1="150" x2="924" y2="150" stroke="#33507a"/>
+<path d="M920 145 L928 150 L920 155 Z" fill="#33507a"/>
+<circle r="4" fill="#22d3ee"><animateMotion dur="1.6s" begin="1.0s" repeatCount="indefinite" path="M882,150 L924,150"/></circle>
+<line x1="882" y1="232" x2="928" y2="232" stroke="#274063" stroke-dasharray="4 4"/>
+<path d="M890 227 L882 232 L890 237 Z" fill="#274063"/>
+<circle r="3.5" fill="#22c55e"><animateMotion dur="2s" begin="1.8s" repeatCount="indefinite" path="M928,232 L882,232"/></circle>
+<text x="600" y="322" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11.5" fill="#5f7292">&#9679; request &#8594;&#160;&#160;&#160;&#9679; &#8592; response</text>
+</svg>

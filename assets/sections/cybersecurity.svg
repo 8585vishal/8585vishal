@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Security module dashboard: a radar scope, a shield indicating active monitoring, and a status panel listing network anomaly detection, synthetic-media forensics, dark-web threat intelligence, and real-time monitoring as active.">
+<defs>
+<linearGradient id="cy_panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0e1a"/><stop offset="1" stop-color="#06080f"/></linearGradient>
+<linearGradient id="cy_border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06b6d4"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="cy_sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22c55e" stop-opacity="0"/><stop offset="1" stop-color="#22c55e" stop-opacity="0.55"/></linearGradient>
+<radialGradient id="cy_scope" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#0c2a1c"/><stop offset="1" stop-color="#07110d"/></radialGradient>
+</defs>
+<rect x="4" y="4" width="1192" height="292" rx="16" fill="url(#cy_border)"/>
+<rect x="6" y="6" width="1188" height="288" rx="14" fill="url(#cy_panel)"/>
+<g font-family="'JetBrains Mono',ui-monospace,Consolas,monospace"><circle cx="30" cy="30" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle><text x="44" y="35" font-size="13" fill="#5ad1e6">// security.module — monitoring active</text></g>
+<circle cx="205" cy="168" r="104" fill="url(#cy_scope)" stroke="#1c5a3a" stroke-width="1.5"/>
+<g fill="none" stroke="#17402c" stroke-width="1">
+<circle cx="205" cy="168" r="34"/>
+<circle cx="205" cy="168" r="68"/>
+<circle cx="205" cy="168" r="104"/>
+<line x1="101" y1="168" x2="309" y2="168"/><line x1="205" y1="64" x2="205" y2="272"/>
+</g>
+<g><animateTransform attributeName="transform" type="rotate" values="0 205 168;360 205 168" dur="4s" repeatCount="indefinite"/>
+<path d="M205 168 L309 168 A104 104 0 0 0 293.2 112.9 Z" fill="url(#cy_sweep)"/>
+<line x1="205" y1="168" x2="309" y2="168" stroke="#4ade80" stroke-width="2"/>
+</g>
+<circle cx="250" cy="120" r="4" fill="#4ade80"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="160" cy="210" r="4" fill="#4ade80"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="270" cy="205" r="4" fill="#4ade80"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="3.0s" repeatCount="indefinite"/></circle>
+<circle cx="180" cy="140" r="4" fill="#4ade80"><animate attributeName="opacity" values="0;1;0" dur="4s" begin="1.5s" repeatCount="indefinite"/></circle>
+<circle cx="205" cy="168" r="3" fill="#7fe0b0"/>
+<text x="205" y="292" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" fill="#5f7292">anomaly scope</text>
+<path d="M470 78 L522 100 L522 156 Q522 202 470 224 Q418 202 418 156 L418 100 Z" fill="#0b2233" stroke="#22d3ee" stroke-width="2.5"/>
+<path d="M450 148 l14 16 l26 -30" fill="none" stroke="#22c55e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M470 78 L522 100 L522 156 Q522 202 470 224 Q418 202 418 156 L418 100 Z" fill="none" stroke="#4ade80" stroke-width="2" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.2s" repeatCount="indefinite"/></path>
+<text x="470" y="252" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#7fe0b0" letter-spacing="1">SECURED</text>
+<text x="470" y="272" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" fill="#5f7292">defense-in-depth</text>
+<rect x="640" y="60" width="520" height="200" rx="10" fill="#0b1424" stroke="#16324a"/>
+<text x="662" y="90" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="13" fill="#93b4d8" letter-spacing="1">THREAT MATRIX</text>
+<line x1="662" y1="100" x2="1138" y2="100" stroke="#16324a"/>
+<circle cx="670" cy="124" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="686" y="128" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f5">Network Anomaly Detection</text>
+<rect x="1010" y="116" width="96" height="9" rx="4" fill="#0e1a12" stroke="#1c3a28"/>
+<rect x="1014" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.00s" repeatCount="indefinite"/></rect>
+<rect x="1029" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.12s" repeatCount="indefinite"/></rect>
+<rect x="1044" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.24s" repeatCount="indefinite"/></rect>
+<rect x="1059" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.36s" repeatCount="indefinite"/></rect>
+<rect x="1074" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.48s" repeatCount="indefinite"/></rect>
+<rect x="1089" y="118" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.60s" repeatCount="indefinite"/></rect>
+<text x="1120" y="128" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" fill="#7fe0b0">ON</text>
+<circle cx="670" cy="156" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.9000000000000001s" repeatCount="indefinite"/></circle>
+<text x="686" y="160" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f5">Synthetic-Media Forensics</text>
+<rect x="1010" y="148" width="96" height="9" rx="4" fill="#0e1a12" stroke="#1c3a28"/>
+<rect x="1014" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.10s" repeatCount="indefinite"/></rect>
+<rect x="1029" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.22s" repeatCount="indefinite"/></rect>
+<rect x="1044" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.34s" repeatCount="indefinite"/></rect>
+<rect x="1059" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.46s" repeatCount="indefinite"/></rect>
+<rect x="1074" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.58s" repeatCount="indefinite"/></rect>
+<rect x="1089" y="150" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.70s" repeatCount="indefinite"/></rect>
+<text x="1120" y="160" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" fill="#7fe0b0">ON</text>
+<circle cx="670" cy="188" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="686" y="192" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f5">Dark-Web Threat Intelligence</text>
+<rect x="1010" y="180" width="96" height="9" rx="4" fill="#0e1a12" stroke="#1c3a28"/>
+<rect x="1014" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.20s" repeatCount="indefinite"/></rect>
+<rect x="1029" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.32s" repeatCount="indefinite"/></rect>
+<rect x="1044" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.44s" repeatCount="indefinite"/></rect>
+<rect x="1059" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.56s" repeatCount="indefinite"/></rect>
+<rect x="1074" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.68s" repeatCount="indefinite"/></rect>
+<rect x="1089" y="182" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.80s" repeatCount="indefinite"/></rect>
+<text x="1120" y="192" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" fill="#7fe0b0">ON</text>
+<circle cx="670" cy="220" r="5" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/></circle>
+<text x="686" y="224" font-family="'Segoe UI',system-ui,sans-serif" font-size="14" fill="#dbe6f5">Real-time Monitoring</text>
+<rect x="1010" y="212" width="96" height="9" rx="4" fill="#0e1a12" stroke="#1c3a28"/>
+<rect x="1014" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.30s" repeatCount="indefinite"/></rect>
+<rect x="1029" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.42s" repeatCount="indefinite"/></rect>
+<rect x="1044" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.54s" repeatCount="indefinite"/></rect>
+<rect x="1059" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.66s" repeatCount="indefinite"/></rect>
+<rect x="1074" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.78s" repeatCount="indefinite"/></rect>
+<rect x="1089" y="214" width="11" height="5" rx="1" fill="#22c55e"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.4s" begin="0.90s" repeatCount="indefinite"/></rect>
+<text x="1120" y="224" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" fill="#7fe0b0">ON</text>
+</svg>
