@@ -37,14 +37,14 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=8585vishal&color=22d3ee&style=flat&label=profile+views" alt="Profile views" />
 </p>
-  | Domain | Technologies |
-  | :-- | :-- |
-  | **Languages** | Python · Java · JavaScript · TypeScript |
-  | **Frontend** | React · HTML · CSS |
-  | **Backend** | Node.js · Express · REST APIs |
-  | **Databases** | MongoDB · MySQL · Firebase |
-  | **AI / ML** | Deep learning (CNN · Vision Transformers) · NLP · LLM integration |
-  | **Cloud & DevOps** | AWS · Docker · Git · Linux |
+
+<p align="center">
+  <b>Email:</b> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a>
+</p>
+
+<!-- Quick navigation -->
+<p align="center">
+  <a href="#_-systemstatus"><b>Status</b></a> &nbsp;·&nbsp;
   <a href="#_-aboutidentity"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#_-techstack"><b>Tech</b></a> &nbsp;·&nbsp;
   <a href="#_-projectsconstellation"><b>Projects</b></a> &nbsp;·&nbsp;
@@ -94,26 +94,18 @@
       </td>
       <td width="35%" valign="top">
         <ul align="left">
-        <img src="assets/3d/orbital-system.svg" alt="Technology orbital system — core: AI engineering; orbiting technologies: React, Node.js, MongoDB, Python, Java, JavaScript, TypeScript, AWS, Docker, Git, Linux." />
-      </p>
+          <li><strong>Location:</strong> Bengaluru, India</li>
+          <li><strong>Education:</strong> MCA (Presidency Univ.), BCA (KLE Society)</li>
+          <li><strong>Focus:</strong> AI/ML · Full‑Stack · Cybersecurity</li>
+          <li><strong>Status:</strong> Open to opportunities</li>
+          <li><strong>Contact:</strong> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,html,css,mongodb,mysql,firebase,aws,docker,git,linux&perline=8&theme=dark" alt="Tech icons" />
-      </p>
-
-      <p align="center" style="margin-top:12px;">
-        <strong>| Domain | Technologies |</strong>
-        <br/>
-        <small>
-        Languages: <strong>Python</strong> · <strong>Java</strong> · <strong>JavaScript</strong> · <strong>TypeScript</strong>
-        &nbsp;|&nbsp; Frontend: <strong>React</strong> · HTML · CSS
-        &nbsp;|&nbsp; Backend: <strong>Node.js</strong> · Express · REST APIs
-        <br/>
-        Databases: <strong>MongoDB</strong> · MySQL · Firebase
-        &nbsp;|&nbsp; AI / ML: Deep Learning (CNN · ViT) · NLP · LLM integration
-        &nbsp;|&nbsp; Cloud & DevOps: AWS · Docker · Git · Linux
-        </small>
-      </p>
+<img src="assets/sections/divider-3.svg" alt="" width="100%" />
 
 <!-- ========================= TECH STACK ========================= -->
 
