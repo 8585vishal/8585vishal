@@ -38,6 +38,10 @@
   <img src="https://komarev.com/ghpvc/?username=8585vishal&color=22d3ee&style=flat&label=profile+views" alt="Profile views" />
 </p>
 
+<p align="center">
+  <b>Email:</b> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a>
+</p>
+
 <!-- Quick navigation -->
 <p align="center">
   <a href="#_-systemstatus"><b>Status</b></a> &nbsp;·&nbsp;
