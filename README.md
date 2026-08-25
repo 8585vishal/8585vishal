@@ -295,10 +295,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/sections/architecture.svg" alt="Full-stack architecture — Client (React, HTML/CSS, JavaScript) to API Layer (Node.js, Express, REST API) to Services (AI/LLM, Auth, App Logic) to Data (MongoDB, MySQL, Firebase), with request and response flow." />
+  <img src="assets/sections/architecture.svg" alt="Full-stack architecture: Client (React, HTML/CSS, JavaScript) → API Layer (Node.js, Express, REST) → Services (AI/LLM, Auth, Business Logic) → Data (MongoDB, MySQL, Firebase). Designed for scalability and clear request/response flow." />
 </p>
 
-I build full-stack applications with a **React** front end, a **Node.js / Express** API layer, an AI/LLM and authentication service tier, and a data layer spanning **MongoDB, MySQL, and Firebase** — designed for clean separation of concerns and reliable request/response flow.
+<p align="center">I build production-ready full-stack applications with a React front end, a Node.js + Express API layer, and modular services—including AI/LLMs, authentication, and business logic. I select data stores (MongoDB, MySQL, Firebase) to fit each use case and design systems for clear separation of concerns, scalability, observability, and reliable request/response flows.</p>
 
 <!-- ========================= NEURAL NET ========================= -->
 
