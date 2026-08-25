@@ -55,7 +55,7 @@
 <!-- ========================= SYSTEM STATUS ========================= -->
 
 <a id="_-systemstatus"></a>
---><h1>system.status</h1>
+<h3>system.status</h3>
 
 <p align="center">
   <img src="assets/sections/terminal.svg" alt="Terminal session — whoami: vishal-raj-purohit; focus: AI/ML, Full-Stack, Cybersecurity, Data Science; currently building: PUARAI and Cortexify-AI; education: MCA Presidency University CGPA 9.23, BCA KLE Society's Degree College CGPA 9.18; status: building intelligent systems." />
