@@ -147,108 +147,91 @@
 
 <a id="_-projectsconstellation"></a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=PROJECTS.CONSTELLATION" alt="PROJECTS.CONSTELLATION" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=PROJECTS.CONSTELLATION" alt="PROJECTS.CONSTELLATION" />
 </p>
 
 <p align="center">
-  <img src="assets/sections/constellation.svg" alt="Project constellation — featured projects: PUARAI, Cortexify-AI, Forensic-AI, Spectrogram DCNN, NEWS-AUTHENTIX, AeroAnomaly-AI." />
+  <img src="assets/sections/constellation.svg" alt="Project constellation — featured projects" />
 </p>
 
 <div align="center">
+  <table width="90%" style="table-layout:fixed;">
+    <tr>
+      <td valign="top" width="50%" style="padding:8px;">
+        <details open>
+          <summary><strong>⭐ PUARAI</strong> — TypeScript · AI/ML</summary>
+          <p style="margin:6px 0">Flagship AI-driven application and actively maintained codebase. <a href="https://github.com/8585vishal/PUARAI">View on GitHub</a></p>
+        </details>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+        <details>
+          <summary><strong>📰 NEWS-AUTHENTIX</strong> — ML · NLP</summary>
+          <p style="margin:6px 0">Fake-news detection using machine learning and NLP. <a href="https://github.com/8585vishal/NEWS-AUTHENTIX-">View on GitHub</a></p>
+        </details>
 
-### ⭐ [PUARAI](https://github.com/8585vishal/PUARAI)
+        <details>
+          <summary><strong>🕵️ Forensic-AI (private)</strong> — CNN · ViT</summary>
+          <p style="margin:6px 0">Synthetic-media forensics for deepfake and AI-generated-text detection.</p>
+        </details>
+      </td>
 
-Flagship project — an AI-driven application built primarily in **TypeScript**. Actively developed and maintained.
+      <td valign="top" width="50%" style="padding:8px;">
+        <details>
+          <summary><strong>🔐 Cortexify-AI</strong> — LLM · Real-time · Security</summary>
+          <p style="margin:6px 0">Real-time secure AI conversation platform (patent approved). <a href="https://github.com/8585vishal/Cortexify-AI">View on GitHub</a></p>
+        </details>
 
-`TypeScript` · `AI/ML`
+        <details>
+          <summary><strong>📡 Spectrogram DCNN</strong> — DCNN · Anomaly Detection</summary>
+          <p style="margin:6px 0">Spectrogram-image-based network anomaly detection. <a href="https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN">View on GitHub</a></p>
+        </details>
 
-  </td>
-  <td width="50%" valign="top">
-
-### 🔐 [Cortexify-AI](https://github.com/8585vishal/Cortexify-AI)
-
-Real-time, secure AI conversation platform with **LLM integration**. **Patent Approved.**
-
-`LLM` · `Real-time` · `Security`
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🕵️ Forensic-AI &nbsp;<sub>`private`</sub>
-
-Synthetic-media forensics — deepfake and AI-generated-text detection using a **CNN + Vision Transformer** ensemble.
-
-`CNN` · `ViT` · `Forensics`
-
-  </td>
-  <td width="50%" valign="top">
-
-### 📡 [Spectrogram DCNN](https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN)
-
-Spectrogram-image-based **network anomaly detection** system using a Deep CNN.
-
-`DCNN` · `Anomaly Detection`
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📰 [NEWS-AUTHENTIX](https://github.com/8585vishal/NEWS-AUTHENTIX-)
-
-Fake-news detection using **machine learning and NLP** to classify article authenticity.
-
-`ML` · `NLP`
-
-  </td>
-  <td width="50%" valign="top">
-
-### ✈️ AeroAnomaly-AI &nbsp;<sub>`private`</sub>
-
-Anomaly-detection system applied to aerospace/operational telemetry data.
-
-`Anomaly Detection` · `AI/ML`
-
-  </td>
-  </tr>
-</table>
-
+        <details>
+          <summary><strong>✈️ AeroAnomaly-AI (private)</strong> — Anomaly Detection · AI/ML</summary>
+          <p style="margin:6px 0">Anomaly-detection applied to aerospace and operational telemetry data.</p>
+        </details>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <details>
-<summary><b>📂 Browse all repositories</b></summary>
+  <summary><b>📂 Browse all repositories</b></summary>
 
-<br/>
+  <br/>
 
-**AI / ML & Data Science**
+  <strong>AI / ML & Data Science</strong>
+  <ul>
+    <li><a href="https://github.com/8585vishal/PUARAI">PUARAI</a></li>
+    <li><a href="https://github.com/8585vishal/PU-AR-AI">PU-AR-AI</a></li>
+    <li><a href="https://github.com/8585vishal/Cortexify-AI">Cortexify-AI</a></li>
+    <li><a href="https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN">Spectrogram DCNN</a></li>
+    <li><a href="https://github.com/8585vishal/NEWS-AUTHENTIX-">NEWS-AUTHENTIX</a></li>
+    <li><a href="https://github.com/8585vishal/Sentiment-Analysis">Sentiment-Analysis</a></li>
+    <li><a href="https://github.com/8585vishal/Multilingual-Chatbot-Web-Application">Multilingual Chatbot Web Application</a></li>
+  </ul>
 
-- [PUARAI](https://github.com/8585vishal/PUARAI) · [PU-AR-AI](https://github.com/8585vishal/PU-AR-AI) · [Cortexify-AI](https://github.com/8585vishal/Cortexify-AI) · [Cort-ai](https://github.com/8585vishal/Cort-ai)
-- Forensic-AI *(private)* · AeroAnomaly-AI *(private)*
-- [Spectrogram Network Anomaly Detection (DCNN)](https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN)
-- [NEWS-AUTHENTIX](https://github.com/8585vishal/NEWS-AUTHENTIX-) · [Sentiment-Analysis](https://github.com/8585vishal/Sentiment-Analysis) · [Multilingual Chatbot Web Application](https://github.com/8585vishal/Multilingual-Chatbot-Web-Application)
-- [E-Commerce Fraud Detection](https://github.com/8585vishal/E-Commerce-Fraud-Detection) · [Early Prediction of Lifestyle Diseases](https://github.com/8585vishal/Early-Prediction-of-Lifestyle-Diseases) · [Mental Health Treatment Prediction](https://github.com/8585vishal/Mental-Health-Treatment-Prediction)
-- [Iris Flower Classification with ML](https://github.com/8585vishal/Iris-Flower-Type-Prediction-and-Classification-with-ML) · [Crop-AI](https://github.com/8585vishal/Crop--AI)
+  <strong>Cybersecurity</strong>
+  <ul>
+    <li><a href="https://github.com/8585vishal/Drak-Web-Thread-Intelligence">Dark-Web Threat Intelligence</a></li>
+  </ul>
 
-**Cybersecurity**
+  <strong>Web & Applications</strong>
+  <ul>
+    <li><a href="https://github.com/8585vishal/Portfolio-Website">Portfolio-Website</a></li>
+    <li><a href="https://github.com/8585vishal/Porfolio">Porfolio</a></li>
+    <li><a href="https://github.com/8585vishal/soft-skill-trainer-website">soft-skill-trainer-website</a></li>
+    <li><a href="https://github.com/8585vishal/Professional_Quiz_Application">Professional Quiz Application</a></li>
+    <li><a href="https://github.com/8585vishal/Hospital-management-systems">Hospital Management System</a></li>
+    <li><a href="https://github.com/8585vishal/PharmaCare-Management">PharmaCare Management</a></li>
+  </ul>
 
-- [Dark-Web Threat Intelligence](https://github.com/8585vishal/Drak-Web-Thread-Intelligence)
-
-**Web & Applications**
-
-- [Portfolio-Website](https://github.com/8585vishal/Portfolio-Website) · [Porfolio](https://github.com/8585vishal/Porfolio) · [soft-skill-trainer-website](https://github.com/8585vishal/soft-skill-trainer-website)
-- [Professional Quiz Application](https://github.com/8585vishal/Professional_Quiz_Application) · [Hospital Management System](https://github.com/8585vishal/Hospital-management-systems) · [PharmaCare Management](https://github.com/8585vishal/PharmaCare-Management)
-- [Decentralized Voting System](https://github.com/8585vishal/Decentralized-Voting-System-) · [BALAJI SOLAR Energy Hub](https://github.com/8585vishal/BALAJI-SOLAR-Energy-Hub-)
-
-**APIs, Bots & Fundamentals**
-
-- [TODO List API](https://github.com/8585vishal/-TODO_list_API) · [Telegram Bot](https://github.com/8585vishal/Telegram-Bot) · [Virtual Voice Assistant](https://github.com/8585vishal/Virtual-Voice-Assistant)
-- [Data Structures in C](https://github.com/8585vishal/-Data-Structure-C)
+  <strong>APIs, Bots & Fundamentals</strong>
+  <ul>
+    <li><a href="https://github.com/8585vishal/-TODO_list_API">TODO List API</a></li>
+    <li><a href="https://github.com/8585vishal/Telegram-Bot">Telegram Bot</a></li>
+    <li><a href="https://github.com/8585vishal/Virtual-Voice-Assistant">Virtual Voice Assistant</a></li>
+    <li><a href="https://github.com/8585vishal/-Data-Structure-C">Data Structures in C</a></li>
+  </ul>
 
 </details>
 
