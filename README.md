@@ -55,7 +55,7 @@
 <!-- ========================= SYSTEM STATUS ========================= -->
 
 <a id="_-systemstatus"></a>
-## `>_ system.status`
+<h3>system.status</h3>
 
 <p align="center">
   <img src="assets/sections/terminal.svg" alt="Terminal session — whoami: vishal-raj-purohit; focus: AI/ML, Full-Stack, Cybersecurity, Data Science; currently building: PUARAI and Cortexify-AI; education: MCA Presidency University CGPA 9.23, BCA KLE Society's Degree College CGPA 9.18; status: building intelligent systems." />
@@ -66,7 +66,7 @@
 <!-- ========================= ABOUT ========================= -->
 
 <a id="_-aboutidentity"></a>
-## `>_ about.identity`
+<h3>about.identity</h3>
 
 <p align="center">
   <img src="assets/sections/about.svg" alt="Identity card — Name: Vishal Raj Purohit; Role: Software Developer; Location: Bengaluru, India; Education: MCA, Presidency University, CGPA 9.23; Domains: AI/ML, Full-Stack, Cybersecurity, Data Science; Status: open to opportunities." />
@@ -81,7 +81,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 <!-- ========================= TECH STACK ========================= -->
 
 <a id="_-techstack"></a>
-## `>_ tech.stack`
+<h3>tech.stack</h3>
 
 <p align="center">
   <img src="assets/3d/orbital-system.svg" alt="Technology orbital system — core: AI engineering; orbiting technologies: React, Node.js, MongoDB, Python, Java, JavaScript, TypeScript, AWS, Docker, Git, Linux." />
@@ -115,7 +115,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 <!-- ========================= PROJECTS ========================= -->
 
 <a id="_-projectsconstellation"></a>
-## `>_ projects.constellation`
+<h3>projects.constellation</h3>
 
 <p align="center">
   <img src="assets/sections/constellation.svg" alt="Project constellation — featured projects: PUARAI, Cortexify-AI, Forensic-AI, Spectrogram DCNN, NEWS-AUTHENTIX, AeroAnomaly-AI." />
@@ -224,7 +224,7 @@ Anomaly-detection system applied to aerospace/operational telemetry data.
 <!-- ========================= ARCHITECTURE ========================= -->
 
 <a id="_-architecturefullstack"></a>
-## `>_ architecture.fullstack`
+<h3>architecture.fullstack</h3>
 
 <p align="center">
   <img src="assets/sections/architecture.svg" alt="Full-stack architecture — Client (React, HTML/CSS, JavaScript) to API Layer (Node.js, Express, REST API) to Services (AI/LLM, Auth, App Logic) to Data (MongoDB, MySQL, Firebase), with request and response flow." />
@@ -235,7 +235,7 @@ I build full-stack applications with a **React** front end, a **Node.js / Expres
 <!-- ========================= NEURAL NET ========================= -->
 
 <a id="_-systemsneuralnet"></a>
-## `>_ systems.neural_net`
+<h3>systems.neural_net</h3>
 
 <p align="center">
   <img src="assets/3d/neural-network.svg" alt="Animated neural network — a four-layer multilayer perceptron with input, two hidden layers, and an output layer, showing signal pulses propagating along the connections." />
@@ -246,7 +246,7 @@ I build full-stack applications with a **React** front end, a **Node.js / Expres
 <!-- ========================= SECURITY ========================= -->
 
 <a id="_-securitymodule"></a>
-## `>_ security.module`
+<h3>security.module</h3>
 
 <p align="center">
   <img src="assets/sections/cybersecurity.svg" alt="Cybersecurity module — radar scope with rotating sweep and blips, a shield marked SECURED, and a threat matrix listing network anomaly detection, synthetic-media forensics, dark-web threat intelligence, and real-time monitoring." />
@@ -259,7 +259,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 <!-- ========================= TIMELINE ========================= -->
 
 <a id="_-timelineexperience"></a>
-## `>_ timeline.experience`
+<h3>timeline.experience</h3>
 
 <p align="center">
   <img src="assets/sections/timeline.svg" alt="Experience and education timeline — BCA at KLE Society's Degree College 2022 to 2024; CodSoft Data Science Intern November 2023; Bharat Intern Data Science Intern December 2023; Internship Studio Data Analytics January 2024; MCA at Presidency University 2024 to 2026; Accurate Info-Solutions Data Analyst Intern February 2026." />
@@ -283,7 +283,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 <!-- ========================= DNA / SKILLS RADAR ========================= -->
 
 <a id="_-dnaengineering"></a>
-## `>_ dna.engineering`
+<h3>dna.engineering</h3>
 
 <p align="center">
   <img src="assets/3d/engineering-dna.svg" alt="Engineering DNA — a hexagonal radar across six domains (AI/ML, Full-Stack, Databases, Cybersecurity, Data Science, Software Engineering) flanked by two animated DNA double-helices." />
@@ -294,7 +294,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 <!-- ========================= CERTIFICATIONS ========================= -->
 
 <a id="_-certswall"></a>
-## `>_ certs.wall`
+<h3>certs.wall</h3>
 
 <p align="center">
   <img src="assets/sections/certifications.svg" alt="Certifications wall — twelve verified credentials." />
@@ -324,7 +324,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 <!-- ========================= GITHUB STATS ========================= -->
 
 <a id="_-githubstats"></a>
-## `>_ github.stats`
+<h3>github.stats</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=8585vishal&show_icons=true&hide_border=false&title_color=22D3EE&icon_color=A855F7&text_color=cbd5e1&bg_color=06080f&border_color=164a5e" alt="Vishal's GitHub stats" />
