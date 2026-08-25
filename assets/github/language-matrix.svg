@@ -1,18 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
-  <rect width="100%" height="100%" fill="#080d16" rx="8"/>
-  <g transform="translate(24,20)">
-    <text x="0" y="0" fill="#22d3ee" font-size="14" font-family="JetBrains Mono,monospace">LANGUAGE MATRIX</text>
-    <g transform="translate(0,18)" fill="#e2e8f0" font-family="JetBrains Mono,monospace" font-size="12">
-      <text x="0" y="28">Python</text>
-      <rect x="120" y="14" width="360" height="14" rx="7" fill="#22d3ee" opacity="0.9"/>
-      <text x="0" y="68">TypeScript</text>
-      <rect x="120" y="54" width="280" height="14" rx="7" fill="#8b5cf6" opacity="0.9"/>
-      <text x="0" y="108">JavaScript</text>
-      <rect x="120" y="94" width="220" height="14" rx="7" fill="#22d3ee" opacity="0.7"/>
-      <text x="0" y="148">Java</text>
-      <rect x="120" y="134" width="160" height="14" rx="7" fill="#64748b" opacity="0.8"/>
-      <text x="0" y="188">C / C++</text>
-      <rect x="120" y="174" width="120" height="14" rx="7" fill="#64748b" opacity="0.6"/>
-    </g>
-  </g>
+<rect width="100%" height="100%" fill="#080d16" rx="8"/>
+<g transform="translate(28,28)">
+<text x="0" y="0" fill="#22d3ee" font-size="14" font-family="JetBrains Mono,monospace">LANGUAGE MATRIX</text>
+<text x="0" y="54" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">Python</text>
+<rect x="120" y="38" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="38" width="120" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="50" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">3</text>
+<text x="0" y="94" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">TypeScript</text>
+<rect x="120" y="78" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="78" width="320" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="90" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">8</text>
+<text x="0" y="134" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">JavaScript</text>
+<rect x="120" y="118" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="118" width="160" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="130" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">4</text>
+<text x="0" y="174" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">Java</text>
+<rect x="120" y="158" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="158" width="40" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="170" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">1</text>
+<text x="0" y="214" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">C</text>
+<rect x="120" y="198" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="198" width="40" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="210" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">1</text>
+<text x="0" y="254" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">C++</text>
+<rect x="120" y="238" width="320" height="16" rx="8" fill="#071426" stroke="#164a5e"/>
+<rect x="120" y="238" width="0" height="16" rx="8" fill="#22d3ee" opacity="0.9">
+</rect>
+<text x="460" y="250" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace"></text>
+</g>
 </svg>
