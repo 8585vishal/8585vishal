@@ -337,3 +337,5 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
   <a href="https://vishalrajpurohit.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="mailto:vishalvrajpurohit6@gmail.com"><b>Email</b></a>
 </p>
+#   P r o f i l e - O v e r v i e w  
+ 
