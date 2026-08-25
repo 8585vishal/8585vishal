@@ -78,17 +78,21 @@ def generate_language_matrix(repos):
         width = int((v / maxv) * 320) if maxv else 0
         bars.append((k, v, width))
 
+    total_repos = sum(counts.get(k, 0) for k in known)
+
     svg_lines = [f'<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">',
                  '<rect width="100%" height="100%" fill="#080d16" rx="8"/>',
                  '<g transform="translate(28,28)">',
-                 '<text x="0" y="0" fill="#22d3ee" font-size="14" font-family="JetBrains Mono,monospace">LANGUAGE MATRIX</text>']
+           '<text x="0" y="0" fill="#22d3ee" font-size="14" font-family="JetBrains Mono,monospace">LANGUAGE MATRIX</text>']
     y = 26
     for name, count, w in bars:
         svg_lines.append(f'<text x="0" y="{y+28}" fill="#e2e8f0" font-size="12" font-family="JetBrains Mono,monospace">{name}</text>')
         svg_lines.append(f'<rect x="120" y="{y+12}" width="{320}" height="16" rx="8" fill="#071426" stroke="#164a5e"/>')
         svg_lines.append(f'<rect x="120" y="{y+12}" width="{w}" height="16" rx="8" fill="#22d3ee" opacity="0.9">')
         svg_lines.append('</rect>')
-        svg_lines.append(f'<text x="460" y="{y+24}" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">{count if count else ""}</text>')
+        pct = (v / total_repos * 100) if total_repos else 0
+        pct_label = f"{pct:.1f}%" if v else ''
+        svg_lines.append(f'<text x="460" y="{y+24}" fill="#64748b" font-size="12" font-family="JetBrains Mono,monospace">{pct_label}</text>')
         y += 40
     svg_lines.append('</g>')
     svg_lines.append('</svg>')
@@ -138,8 +142,21 @@ def generate_activity_svg(repos):
     return svg
 
 
-def generate_command_center():
-    svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+def generate_command_center(user=None, repos=None):
+    # compute metrics
+    public_repos = user.get('public_repos') if user else None
+    followers = user.get('followers') if user else None
+    following = user.get('following') if user else None
+    total_stars = sum(r.get('stargazers_count', 0) for r in (repos or []))
+    languages = {}
+    for r in (repos or []):
+        lang = r.get('language')
+        if lang:
+            languages[lang] = languages.get(lang, 0) + 1
+
+    languages_count = len(languages)
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
   <defs>
     <radialGradient id="rg" cx="50%" cy="30%">
       <stop offset="0%" stop-color="#071426"/>
@@ -162,9 +179,23 @@ def generate_command_center():
         </g>
         <g transform="translate(-220,-90)" fill="#22d3ee" font-family="JetBrains Mono,monospace" font-size="11">
           <text x="0" y="0">REPOSITORIES</text>
+          <text x="0" y="18" fill="#e2e8f0" font-size="20">{public_repos if public_repos is not None else '—'}</text>
         </g>
         <g transform="translate(220,-90)" fill="#22d3ee" font-family="JetBrains Mono,monospace" font-size="11">
           <text x="-40" y="0">CONTRIBUTIONS</text>
+          <text x="-40" y="18" fill="#e2e8f0" font-size="20">{''}</text>
+        </g>
+        <g transform="translate(-220,100)" fill="#22d3ee" font-family="JetBrains Mono,monospace" font-size="11">
+          <text x="0" y="0">STARS</text>
+          <text x="0" y="18" fill="#e2e8f0" font-size="20">{total_stars}</text>
+        </g>
+        <g transform="translate(220,100)" fill="#22d3ee" font-family="JetBrains Mono,monospace" font-size="11">
+          <text x="-40" y="0">FOLLOWERS</text>
+          <text x="-40" y="18" fill="#e2e8f0" font-size="20">{followers if followers is not None else '—'}</text>
+        </g>
+        <g transform="translate(380,100)" fill="#22d3ee" font-family="JetBrains Mono,monospace" font-size="11">
+          <text x="-40" y="0">LANGUAGES</text>
+          <text x="-40" y="18" fill="#e2e8f0" font-size="20">{languages_count}</text>
         </g>
       </g>
     </g>
