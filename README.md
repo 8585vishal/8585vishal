@@ -89,14 +89,55 @@
         </p>
 
         <p align="left">
-          My work focuses on building reliable, production‑ready intelligent systems — from synthetic‑media forensics and network‑anomaly detection to secure real‑time AI conversation platforms. I prioritise clean architecture, measurable reliability, and shipping solutions that scale.
+        </div>
+        <img src="assets/sections/timeline.svg" alt="Experience and education timeline illustration (2022–2026)." />
         </p>
-      </td>
-      <td width="35%" valign="top">
-        <ul align="left">
-          <li><strong>Location:</strong> Bengaluru, India</li>
-          <li><strong>Education:</strong> MCA (Presidency Univ.), BCA (KLE Society)</li>
-          <li><strong>Focus:</strong> AI/ML · Full‑Stack · Cybersecurity</li>
+
+        <div align="center">
+
+        <table>
+          <thead>
+            <tr>
+              <th align="left">When</th>
+              <th align="left">Role / Program</th>
+              <th align="left">Organization</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>2022 – 2024</strong></td>
+              <td>BCA · Computer Applications <br/><small>CGPA: 9.18</small></td>
+              <td>KLE Society's Degree College</td>
+            </tr>
+            <tr>
+              <td><strong>Nov 2023</strong></td>
+              <td>Data Science Intern</td>
+              <td>CodSoft</td>
+            </tr>
+            <tr>
+              <td><strong>Dec 2023</strong></td>
+              <td>Data Science Intern</td>
+              <td>Bharat Intern</td>
+            </tr>
+            <tr>
+              <td><strong>Jan 2024</strong></td>
+              <td>Data Analytics Intern</td>
+              <td>Internship Studio</td>
+            </tr>
+            <tr>
+              <td><strong>2024 – 2026</strong></td>
+              <td>MCA · Computer Applications <br/><small>CGPA: 9.23</small></td>
+              <td>Presidency University</td>
+            </tr>
+            <tr>
+              <td><strong>Feb 2026</strong></td>
+              <td>Data Analyst Intern</td>
+              <td>Accurate Info-Solutions</td>
+            </tr>
+          </tbody>
+        </table>
+
+        </div>
           <li><strong>Status:</strong> Open to opportunities</li>
           <li><strong>Contact:</strong> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a></li>
         </ul>
