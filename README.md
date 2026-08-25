@@ -186,6 +186,8 @@
 
 </div>
 
+<p align="center"><small>Key credentials: Crash Course on Python (Google) • Generative AI Professional (Oracle) • Certified AI Foundations Associate (Oracle) • FutureSkills Prime (NASSCOM) • AWS Cloud • UiPath Automation (ICT Academy) • Learnathon 2023 (ICT Academy) • Software Engineering (JPMorgan Chase & Co. — Forage) • Technical Consulting (SAP — Forage) • Data Analytics & Visualization (Accenture — Forage) • AI for Everyone (IBM) • Cyber Security (Techbyheart)</small></p>
+
 <img src="assets/sections/divider-1.svg" alt="" width="100%" />
 
 <!-- ========================= PROJECTS ========================= -->
