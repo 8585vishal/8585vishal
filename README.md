@@ -139,6 +139,8 @@
           </tbody>
         </table>
 
+        <p align="center"><small>2022–2024 — BCA (KLE Society's Degree College, CGPA 9.18) • Nov 2023 — Data Science Intern, CodSoft • Dec 2023 — Data Science Intern, Bharat Intern • Jan 2024 — Data Analytics Intern, Internship Studio • 2024–2026 — MCA (Presidency University, CGPA 9.23) • Feb 2026 — Data Analyst Intern, Accurate Info-Solutions</small></p>
+
         </div>
           <li><strong>Status:</strong> Open to opportunities</li>
           <li><strong>Contact:</strong> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a></li>
