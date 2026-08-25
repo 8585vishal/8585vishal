@@ -405,8 +405,8 @@
 
 <div align="center">
 
-| Credential | Issuer |
-| :-- | :-- |
+| Credential Issuer |
+| :-- 
 | Crash Course on Python | Google |
 | Generative AI Professional | Oracle |
 | Certified AI Foundations Associate | Oracle |
