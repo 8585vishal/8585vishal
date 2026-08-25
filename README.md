@@ -54,6 +54,7 @@
 
 <!-- ========================= SYSTEM STATUS ========================= -->
 
+<a id="_-systemstatus"></a>
 ## `>_ system.status`
 
 <p align="center">
@@ -64,6 +65,7 @@
 
 <!-- ========================= ABOUT ========================= -->
 
+<a id="_-aboutidentity"></a>
 ## `>_ about.identity`
 
 <p align="center">
@@ -78,6 +80,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 
 <!-- ========================= TECH STACK ========================= -->
 
+<a id="_-techstack"></a>
 ## `>_ tech.stack`
 
 <p align="center">
@@ -111,6 +114,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 
 <!-- ========================= PROJECTS ========================= -->
 
+<a id="_-projectsconstellation"></a>
 ## `>_ projects.constellation`
 
 <p align="center">
@@ -219,6 +223,7 @@ Anomaly-detection system applied to aerospace/operational telemetry data.
 
 <!-- ========================= ARCHITECTURE ========================= -->
 
+<a id="_-architecturefullstack"></a>
 ## `>_ architecture.fullstack`
 
 <p align="center">
@@ -229,6 +234,7 @@ I build full-stack applications with a **React** front end, a **Node.js / Expres
 
 <!-- ========================= NEURAL NET ========================= -->
 
+<a id="_-systemsneuralnet"></a>
 ## `>_ systems.neural_net`
 
 <p align="center">
@@ -239,6 +245,7 @@ I build full-stack applications with a **React** front end, a **Node.js / Expres
 
 <!-- ========================= SECURITY ========================= -->
 
+<a id="_-securitymodule"></a>
 ## `>_ security.module`
 
 <p align="center">
@@ -251,6 +258,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 
 <!-- ========================= TIMELINE ========================= -->
 
+<a id="_-timelineexperience"></a>
 ## `>_ timeline.experience`
 
 <p align="center">
@@ -274,6 +282,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 
 <!-- ========================= DNA / SKILLS RADAR ========================= -->
 
+<a id="_-dnaengineering"></a>
 ## `>_ dna.engineering`
 
 <p align="center">
@@ -284,6 +293,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 
 <!-- ========================= CERTIFICATIONS ========================= -->
 
+<a id="_-certswall"></a>
 ## `>_ certs.wall`
 
 <p align="center">
@@ -313,6 +323,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 
 <!-- ========================= GITHUB STATS ========================= -->
 
+<a id="_-githubstats"></a>
 ## `>_ github.stats`
 
 <p align="center">
@@ -337,5 +348,6 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
   <a href="https://vishalrajpurohit.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="mailto:vishalvrajpurohit6@gmail.com"><b>Email</b></a>
 </p>
-#   P r o f i l e - O v e r v i e w  
+#   P r o f i l e - O v e r v i e w 
+ 
  
