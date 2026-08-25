@@ -66,13 +66,13 @@
 <!-- ========================= ABOUT ========================= -->
 
 <a id="_-aboutidentity"></a>
->_ about.identity`
+-->_ about.identity`
 
 <p align="center">
   <img src="assets/sections/about.svg" alt="Identity card — Name: Vishal Raj Purohit; Role: Software Developer; Location: Bengaluru, India; Education: MCA, Presidency University, CGPA 9.23; Domains: AI/ML, Full-Stack, Cybersecurity, Data Science; Status: open to opportunities." />
 </p>
 
-I'm **Vishal Raj Purohit**, a software developer based in Bengaluru, India, currently completing my **MCA at Presidency University** (CGPA 9.23) after a **BCA at KLE Society's Degree College** (CGPA 9.18). I build across the stack, with a focus on **AI/ML systems, full-stack web applications, and cybersecurity**.
+I'm Vishal Raj Purohit, a software developer based in Bengaluru, India, currently completing my MCA at Presidency University (CGPA 9.23) after a BCA at KLE Society's Degree College (CGPA 9.18). I build across the stack, with a focus on AI/ML systems, full-stack web applications, and cybersecurity.
 
 My work centers on intelligent systems that solve real problems — from synthetic-media forensics and network-anomaly detection to secure, real-time AI conversation platforms. I care about clean architecture, measurable reliability, and shipping things that hold up in production.
 
@@ -100,13 +100,13 @@ My work centers on intelligent systems that solve real problems — from synthet
 <div align="center">
 
 | Domain | Technologies |
-| :-- | :-- |
-| **Languages** | Python · Java · JavaScript · TypeScript |
-| **Frontend** | React · HTML · CSS |
-| **Backend** | Node.js · Express · REST APIs |
-| **Databases** | MongoDB · MySQL · Firebase |
-| **AI / ML** | Deep learning (CNN · Vision Transformers) · NLP · LLM integration |
-| **Cloud & DevOps** | AWS · Docker · Git · Linux |
+| :-- <br>
+| Languages | Python · Java · JavaScript · TypeScript |
+| Frontend | React · HTML · CSS |
+| Backend | Node.js · Express · REST APIs |
+| Databases| MongoDB · MySQL · Firebase |
+| AI / ML | Deep learning (CNN · Vision Transformers) · NLP · LLM integration |
+| Cloud & DevOps | AWS · Docker · Git · Linux |
 
 </div>
 
