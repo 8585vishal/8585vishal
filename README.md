@@ -428,31 +428,33 @@
 
 <a id="_-githubstats"></a>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=800&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=GITHUB.STATS" alt="GITHUB.STATS" />
+  <img src="assets/sections/github-command-title.svg" alt="GitHub Command Center" width="100%" />
 </p>
 
-<div align="center">
-  <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=8585vishal&show_icons=true&hide_border=false&title_color=22D3EE&icon_color=A855F7&text_color=cbd5e1&bg_color=06080f&border_color=164a5e" alt="Vishal's GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8585vishal&layout=compact&hide_border=false&title_color=22D3EE&text_color=cbd5e1&bg_color=06080f&border_color=164a5e" alt="Most used languages" />
-  </p>
-
-  <div style="max-width:760px;border-radius:8px;padding:18px;margin:12px auto;border:1px solid #164a5e;">
-    <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&color=22D3EE&width=700&height=30&lines=Contributions+graph+unavailable;Showing+fallback+activity+summary" alt="Contributions unavailable - fallback" />
-    </p>
-    <p align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=8585vishal&bg_color=06080f&color=22D3EE&line=22D3EE&point=22D3EE&area=true" alt="Contribution activity graph" />
-    </p>
-  </div>
-
-  <p>
-    <img src="https://streak-stats.demolab.com?user=8585vishal&hide_border=false&background=06080f&border=164a5e&stroke=164a5e&ring=22D3EE&fire=A855F7&currStreakLabel=22D3EE&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=cbd5e1&dates=5f7fa6" alt="GitHub streak" />
-  </p>
-</div>
+<p align="center">
+  <img src="assets/github/command-center.svg" alt="GitHub Command Center telemetry dashboard" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8585vishal&bg_color=06080f&color=e2e8f0&title_color=22D3EE&line=22D3EE&point=A855F7&area=true&hide_border=false&border_color=164a5e" alt="Contribution activity graph" width="100%" />
+  <img src="assets/github/repository-metrics.svg" alt="GitHub repository metrics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/github/language-matrix.svg" alt="GitHub language matrix" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/github/contribution-grid.svg" alt="GitHub contribution activity visualization" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/github/activity.svg" alt="GitHub activity visualization" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/8585vishal">
+    <b>VIEW FULL GITHUB PROFILE →</b>
+  </a>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
