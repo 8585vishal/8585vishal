@@ -80,9 +80,30 @@
   <img src="assets/sections/about.svg" alt="Identity card — Name: Vishal Raj Purohit; Role: Software Developer; Location: Bengaluru, India; Education: MCA, Presidency University, CGPA 9.23; Domains: AI/ML, Full-Stack, Cybersecurity, Data Science; Status: open to opportunities." />
 </p>
 
-I'm Vishal Raj Purohit, a software developer based in Bengaluru, India, currently completing my MCA at Presidency University (CGPA 9.23) after a BCA at KLE Society's Degree College (CGPA 9.18). I build across the stack, with a focus on AI/ML systems, full-stack web applications, and cybersecurity.
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="65%" valign="top">
+        <p align="left">
+          <strong>Hi — I’m Vishal Raj Purohit.</strong> I’m a software developer in Bengaluru specialising in AI/ML, full‑stack web applications, and cybersecurity. I’m currently completing my <strong>MCA at Presidency University (CGPA 9.23)</strong> after a <strong>BCA at KLE Society's Degree College (CGPA 9.18)</strong>.
+        </p>
 
-My work centers on intelligent systems that solve real problems — from synthetic-media forensics and network-anomaly detection to secure, real-time AI conversation platforms. I care about clean architecture, measurable reliability, and shipping things that hold up in production.
+        <p align="left">
+          My work focuses on building reliable, production‑ready intelligent systems — from synthetic‑media forensics and network‑anomaly detection to secure real‑time AI conversation platforms. I prioritise clean architecture, measurable reliability, and shipping solutions that scale.
+        </p>
+      </td>
+      <td width="35%" valign="top">
+        <ul align="left">
+          <li><strong>Location:</strong> Bengaluru, India</li>
+          <li><strong>Education:</strong> MCA (Presidency Univ.), BCA (KLE Society)</li>
+          <li><strong>Focus:</strong> AI/ML · Full‑Stack · Cybersecurity</li>
+          <li><strong>Status:</strong> Open to opportunities</li>
+          <li><strong>Contact:</strong> <a href="mailto:vishalvrajpurohit6@gmail.com">vishalvrajpurohit6@gmail.com</a></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="assets/sections/divider-3.svg" alt="" width="100%" />
 
