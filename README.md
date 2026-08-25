@@ -373,29 +373,7 @@
 
 <!-- ========================= TIMELINE ========================= -->
 
-<a id="_-timelineexperience"></a>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&height=48&lines=TIMELINE.EXPERIENCE" alt="TIMELINE.EXPERIENCE" />
-</p>
-
-<p align="center">
-  <img src="assets/sections/timeline.svg" alt="Experience and education timeline — education and internships from 2022 through 2026, showing progression from BCA, internships in data science/analytics, to MCA and data-analyst roles." />
-</p>
-
-<div align="center">
-
-| When | Role / Program | Organization |
-| :-- | :-- | :-- |
-| **2024 – 2026** | MCA · Computer Applications *(CGPA 9.23)* | Presidency University |
-| **Feb 2026** | Data Analyst Intern | Accurate Info-Solutions |
-| **Jan 2024** | Data Analytics Intern | Internship Studio |
-| **Dec 2023** | Data Science Intern | Bharat Intern |
-| **Nov 2023** | Data Science Intern | CodSoft |
-| **2022 – 2024** | BCA · Computer Applications *(CGPA 9.18)* | KLE Society's Degree College |
-
-</div>
-
-<img src="assets/sections/divider-2.svg" alt="" width="100%" />
+<!-- Duplicate timeline block removed; main timeline table is defined earlier in the README. -->
 
 <!-- ========================= DNA / SKILLS RADAR ========================= -->
 
