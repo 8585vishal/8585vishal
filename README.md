@@ -199,50 +199,89 @@
 
   <br/>
 
-  <strong>AI / ML & Data Science</strong>
-  <ul>
-    <li><a href="https://github.com/8585vishal/PUARAI">PUARAI</a></li>
-    <li><a href="https://github.com/8585vishal/PU-AR-AI">PU-AR-AI</a></li>
-    <li><a href="https://github.com/8585vishal/Cortexify-AI">Cortexify-AI</a></li>
-    <li><a href="https://github.com/8585vishal/Cort-ai">Cort-ai</a></li>
-    <li><a href="https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN">Spectrogram DCNN</a></li>
-    <li><a href="https://github.com/8585vishal/NEWS-AUTHENTIX-">NEWS-AUTHENTIX</a></li>
-    <li><a href="https://github.com/8585vishal/Sentiment-Analysis">Sentiment-Analysis</a></li>
-    <li><a href="https://github.com/8585vishal/Multilingual-Chatbot-Web-Application">Multilingual Chatbot Web Application</a></li>
-    <li><a href="https://github.com/8585vishal/E-Commerce-Fraud-Detection">E-Commerce Fraud Detection</a></li>
-    <li><a href="https://github.com/8585vishal/Early-Prediction-of-Lifestyle-Diseases">Early Prediction of Lifestyle Diseases</a></li>
-    <li><a href="https://github.com/8585vishal/Mental-Health-Treatment-Prediction">Mental Health Treatment Prediction</a></li>
-    <li><a href="https://github.com/8585vishal/Iris-Flower-Type-Prediction-and-Classification-with-ML">Iris Flower Classification with ML</a></li>
-    <li><a href="https://github.com/8585vishal/Crop--AI">Crop-AI</a></li>
-  </ul>
+  <div align="center">
+    <table width="95%" style="table-layout:fixed;">
+      <tr>
+        <td valign="top" width="50%" style="padding:8px;">
+          <!-- left column projects -->
+          <details open>
+            <summary><strong>PUARAI</strong> — TypeScript · AI/ML</summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/PUARAI">github.com/8585vishal/PUARAI</a></p>
+          </details>
 
-  <strong>Cybersecurity</strong>
-  <ul>
-    <li><a href="https://github.com/8585vishal/Drak-Web-Thread-Intelligence">Dark-Web Threat Intelligence</a></li>
-    <li><a href="https://github.com/8585vishal/Forensic-AI">Forensic-AI (private)</a></li>
-  </ul>
+          <details>
+            <summary><strong>PU-AR-AI</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/PU-AR-AI">github.com/8585vishal/PU-AR-AI</a></p>
+          </details>
 
-  <strong>Web & Applications</strong>
-  <ul>
-    <li><a href="https://github.com/8585vishal/Portfolio-Website">Portfolio-Website</a></li>
-    <li><a href="https://github.com/8585vishal/Porfolio">Porfolio</a></li>
-    <li><a href="https://github.com/8585vishal/soft-skill-trainer-website">soft-skill-trainer-website</a></li>
-    <li><a href="https://github.com/8585vishal/Professional_Quiz_Application">Professional Quiz Application</a></li>
-    <li><a href="https://github.com/8585vishal/Hospital-management-systems">Hospital Management System</a></li>
-    <li><a href="https://github.com/8585vishal/PharmaCare-Management">PharmaCare Management</a></li>
-    <li><a href="https://github.com/8585vishal/Decentralized-Voting-System-">Decentralized Voting System</a></li>
-    <li><a href="https://github.com/8585vishal/BALAJI-SOLAR-Energy-Hub-">BALAJI SOLAR Energy Hub</a></li>
-  </ul>
+          <details>
+            <summary><strong>Cort-ai</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Cort-ai">github.com/8585vishal/Cort-ai</a></p>
+          </details>
 
-  <strong>APIs, Bots & Fundamentals</strong>
-  <ul>
-    <li><a href="https://github.com/8585vishal/-TODO_list_API">TODO List API</a></li>
-    <li><a href="https://github.com/8585vishal/Telegram-Bot">Telegram Bot</a></li>
-    <li><a href="https://github.com/8585vishal/Virtual-Voice-Assistant">Virtual Voice Assistant</a></li>
-    <li><a href="https://github.com/8585vishal/-Data-Structure-C">Data Structures in C</a></li>
-    <li><a href="https://github.com/8585vishal/Mental-Health-Treatment-Prediction">Mental Health Treatment Prediction</a></li>
-    <li><a href="https://github.com/8585vishal/E-Commerce-Fraud-Detection">E-Commerce Fraud Detection</a></li>
-  </ul>
+          <details>
+            <summary><strong>NEWS-AUTHENTIX</strong> — ML · NLP</summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/NEWS-AUTHENTIX-">github.com/8585vishal/NEWS-AUTHENTIX-</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Sentiment-Analysis</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Sentiment-Analysis">github.com/8585vishal/Sentiment-Analysis</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Multilingual Chatbot Web Application</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Multilingual-Chatbot-Web-Application">github.com/8585vishal/Multilingual-Chatbot-Web-Application</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Iris-Flower Classification with ML</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Iris-Flower-Type-Prediction-and-Classification-with-ML">github.com/8585vishal/Iris-Flower-Type-Prediction-and-Classification-with-ML</a></p>
+          </details>
+
+        </td>
+
+        <td valign="top" width="50%" style="padding:8px;">
+          <!-- right column projects -->
+          <details>
+            <summary><strong>Cortexify-AI</strong> — LLM · Real-time · Security</summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Cortexify-AI">github.com/8585vishal/Cortexify-AI</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Spectrogram DCNN</strong> — DCNN · Anomaly Detection</summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN">github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Forensic-AI</strong> — (private) · CNN · ViT</summary>
+            <p style="margin:6px 0">Private repository (forensics research)</p>
+          </details>
+
+          <details>
+            <summary><strong>E-Commerce Fraud Detection</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/E-Commerce-Fraud-Detection">github.com/8585vishal/E-Commerce-Fraud-Detection</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Early Prediction of Lifestyle Diseases</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Early-Prediction-of-Lifestyle-Diseases">github.com/8585vishal/Early-Prediction-of-Lifestyle-Diseases</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Mental Health Treatment Prediction</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Mental-Health-Treatment-Prediction">github.com/8585vishal/Mental-Health-Treatment-Prediction</a></p>
+          </details>
+
+          <details>
+            <summary><strong>Crop-AI</strong></summary>
+            <p style="margin:6px 0"><a href="https://github.com/8585vishal/Crop--AI">github.com/8585vishal/Crop--AI</a></p>
+          </details>
+
+        </td>
+      </tr>
+    </table>
+  </div>
 
 </details>
 
