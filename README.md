@@ -204,15 +204,22 @@
     <li><a href="https://github.com/8585vishal/PUARAI">PUARAI</a></li>
     <li><a href="https://github.com/8585vishal/PU-AR-AI">PU-AR-AI</a></li>
     <li><a href="https://github.com/8585vishal/Cortexify-AI">Cortexify-AI</a></li>
+    <li><a href="https://github.com/8585vishal/Cort-ai">Cort-ai</a></li>
     <li><a href="https://github.com/8585vishal/Spectrogram-image-based-Network-Anomaly-Detection-System-using-DCNN">Spectrogram DCNN</a></li>
     <li><a href="https://github.com/8585vishal/NEWS-AUTHENTIX-">NEWS-AUTHENTIX</a></li>
     <li><a href="https://github.com/8585vishal/Sentiment-Analysis">Sentiment-Analysis</a></li>
     <li><a href="https://github.com/8585vishal/Multilingual-Chatbot-Web-Application">Multilingual Chatbot Web Application</a></li>
+    <li><a href="https://github.com/8585vishal/E-Commerce-Fraud-Detection">E-Commerce Fraud Detection</a></li>
+    <li><a href="https://github.com/8585vishal/Early-Prediction-of-Lifestyle-Diseases">Early Prediction of Lifestyle Diseases</a></li>
+    <li><a href="https://github.com/8585vishal/Mental-Health-Treatment-Prediction">Mental Health Treatment Prediction</a></li>
+    <li><a href="https://github.com/8585vishal/Iris-Flower-Type-Prediction-and-Classification-with-ML">Iris Flower Classification with ML</a></li>
+    <li><a href="https://github.com/8585vishal/Crop--AI">Crop-AI</a></li>
   </ul>
 
   <strong>Cybersecurity</strong>
   <ul>
     <li><a href="https://github.com/8585vishal/Drak-Web-Thread-Intelligence">Dark-Web Threat Intelligence</a></li>
+    <li><a href="https://github.com/8585vishal/Forensic-AI">Forensic-AI (private)</a></li>
   </ul>
 
   <strong>Web & Applications</strong>
@@ -223,6 +230,8 @@
     <li><a href="https://github.com/8585vishal/Professional_Quiz_Application">Professional Quiz Application</a></li>
     <li><a href="https://github.com/8585vishal/Hospital-management-systems">Hospital Management System</a></li>
     <li><a href="https://github.com/8585vishal/PharmaCare-Management">PharmaCare Management</a></li>
+    <li><a href="https://github.com/8585vishal/Decentralized-Voting-System-">Decentralized Voting System</a></li>
+    <li><a href="https://github.com/8585vishal/BALAJI-SOLAR-Energy-Hub-">BALAJI SOLAR Energy Hub</a></li>
   </ul>
 
   <strong>APIs, Bots & Fundamentals</strong>
@@ -231,6 +240,8 @@
     <li><a href="https://github.com/8585vishal/Telegram-Bot">Telegram Bot</a></li>
     <li><a href="https://github.com/8585vishal/Virtual-Voice-Assistant">Virtual Voice Assistant</a></li>
     <li><a href="https://github.com/8585vishal/-Data-Structure-C">Data Structures in C</a></li>
+    <li><a href="https://github.com/8585vishal/Mental-Health-Treatment-Prediction">Mental Health Treatment Prediction</a></li>
+    <li><a href="https://github.com/8585vishal/E-Commerce-Fraud-Detection">E-Commerce Fraud Detection</a></li>
   </ul>
 
 </details>
