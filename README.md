@@ -428,30 +428,6 @@
 
 <a id="_-githubstats"></a>
 <p align="center">
-  <img src="assets/sections/github-command-title.svg" alt="GitHub Command Center" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/github/command-center.svg" alt="GitHub Command Center telemetry dashboard" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/github/repository-metrics.svg" alt="GitHub repository metrics" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/github/language-matrix.svg" alt="GitHub language matrix" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/github/contribution-grid.svg" alt="GitHub contribution activity visualization" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/github/activity.svg" alt="GitHub activity visualization" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/8585vishal">
     <b>VIEW FULL GITHUB PROFILE →</b>
   </a>
