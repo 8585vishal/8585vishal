@@ -321,10 +321,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/sections/cybersecurity.svg" alt="Cybersecurity module — radar scope with rotating sweep and blips, a shield marked SECURED, and a threat matrix listing network anomaly detection, synthetic-media forensics, dark-web threat intelligence, and real-time monitoring." />
+  <img src="assets/sections/cybersecurity.svg" alt="Cybersecurity module — radar scope, defense-in-depth shield, and a threat matrix for anomaly detection, media forensics, dark-web intelligence, and real-time monitoring." />
 </p>
 
-Security is a through-line in my work: **network-anomaly detection** (Spectrogram DCNN), **synthetic-media forensics** (Forensic-AI), and **dark-web threat intelligence** — building systems that detect and defend, not just compute.
+<p align="center">Security is a through-line in my systems work: I design and ship end-to-end detection & response pipelines—network-anomaly detection (spectrogram DCNNs), synthetic-media forensics (Forensic-AI), dark-web threat intelligence, and real-time monitoring. I integrate telemetry, SIEM-style correlation, alerting and automated containment to build systems that detect, explain, and remediate threats with low latency.</p>
 
 <img src="assets/sections/divider-1.svg" alt="" width="100%" />
 
@@ -336,7 +336,7 @@ Security is a through-line in my work: **network-anomaly detection** (Spectrogra
 </p>
 
 <p align="center">
-  <img src="assets/sections/timeline.svg" alt="Experience and education timeline — BCA at KLE Society's Degree College 2022 to 2024; CodSoft Data Science Intern November 2023; Bharat Intern Data Science Intern December 2023; Internship Studio Data Analytics January 2024; MCA at Presidency University 2024 to 2026; Accurate Info-Solutions Data Analyst Intern February 2026." />
+  <img src="assets/sections/timeline.svg" alt="Experience and education timeline — education and internships from 2022 through 2026, showing progression from BCA, internships in data science/analytics, to MCA and data-analyst roles." />
 </p>
 
 <div align="center">
