@@ -106,32 +106,34 @@
           <tbody>
             <tr>
               <td><strong>2022 – 2024</strong></td>
-              <td>BCA · Computer Applications <br/><small>CGPA: 9.18</small></td>
+              <td>BCA · Computer Applications <br/><small>CGPA: 9.18</small>
+                <br/><small>Focus: foundational coursework in algorithms, databases, and software development.</small></td>
               <td>KLE Society's Degree College</td>
             </tr>
             <tr>
               <td><strong>Nov 2023</strong></td>
-              <td>Data Science Intern</td>
+              <td>Data Science Intern<br/><small>Worked on exploratory data analysis, feature engineering, and prototype models.</small></td>
               <td>CodSoft</td>
             </tr>
             <tr>
               <td><strong>Dec 2023</strong></td>
-              <td>Data Science Intern</td>
+              <td>Data Science Intern<br/><small>Built preprocessing pipelines and evaluation pipelines for classification tasks.</small></td>
               <td>Bharat Intern</td>
             </tr>
             <tr>
               <td><strong>Jan 2024</strong></td>
-              <td>Data Analytics Intern</td>
+              <td>Data Analytics Intern<br/><small>Delivered dashboards, SQL analyses, and stakeholder-facing reports.</small></td>
               <td>Internship Studio</td>
             </tr>
             <tr>
               <td><strong>2024 – 2026</strong></td>
-              <td>MCA · Computer Applications <br/><small>CGPA: 9.23</small></td>
+              <td>MCA · Computer Applications <br/><small>CGPA: 9.23</small>
+                <br/><small>Advanced study in machine learning, distributed systems, and software engineering.</small></td>
               <td>Presidency University</td>
             </tr>
             <tr>
               <td><strong>Feb 2026</strong></td>
-              <td>Data Analyst Intern</td>
+              <td>Data Analyst Intern<br/><small>Performed data cleaning, reporting, and model validation for analytics projects.</small></td>
               <td>Accurate Info-Solutions</td>
             </tr>
           </tbody>
