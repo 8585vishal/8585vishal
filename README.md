@@ -55,7 +55,7 @@
 <!-- ========================= SYSTEM STATUS ========================= -->
 
 <a id="_-systemstatus"></a>
-## `>_ system.status`
+>_ system.status`
 
 <p align="center">
   <img src="assets/sections/terminal.svg" alt="Terminal session — whoami: vishal-raj-purohit; focus: AI/ML, Full-Stack, Cybersecurity, Data Science; currently building: PUARAI and Cortexify-AI; education: MCA Presidency University CGPA 9.23, BCA KLE Society's Degree College CGPA 9.18; status: building intelligent systems." />
@@ -66,7 +66,7 @@
 <!-- ========================= ABOUT ========================= -->
 
 <a id="_-aboutidentity"></a>
-## `>_ about.identity`
+>_ about.identity`
 
 <p align="center">
   <img src="assets/sections/about.svg" alt="Identity card — Name: Vishal Raj Purohit; Role: Software Developer; Location: Bengaluru, India; Education: MCA, Presidency University, CGPA 9.23; Domains: AI/ML, Full-Stack, Cybersecurity, Data Science; Status: open to opportunities." />
@@ -81,7 +81,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 <!-- ========================= TECH STACK ========================= -->
 
 <a id="_-techstack"></a>
-## `>_ tech.stack`
+>_ tech.stack`
 
 <p align="center">
   <img src="assets/3d/orbital-system.svg" alt="Technology orbital system — core: AI engineering; orbiting technologies: React, Node.js, MongoDB, Python, Java, JavaScript, TypeScript, AWS, Docker, Git, Linux." />
@@ -115,7 +115,7 @@ My work centers on intelligent systems that solve real problems — from synthet
 <!-- ========================= PROJECTS ========================= -->
 
 <a id="_-projectsconstellation"></a>
-## `>_ projects.constellation`
+>_ projects.constellation`
 
 <p align="center">
   <img src="assets/sections/constellation.svg" alt="Project constellation — featured projects: PUARAI, Cortexify-AI, Forensic-AI, Spectrogram DCNN, NEWS-AUTHENTIX, AeroAnomaly-AI." />
